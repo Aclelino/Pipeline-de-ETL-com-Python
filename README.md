@@ -2,7 +2,7 @@
 # DIO | Pipeline de ETL com Python
 
 Repositorio do Santander Bootcamp 2023 - Ciência de Dados com Python
-[Digital Innovation One](https://www.dio.me/).
+
 
 ## Principais Tecnologias
 
@@ -15,51 +15,10 @@ Repositorio do Santander Bootcamp 2023 - Ciência de Dados com Python
 -[Documentação Pandas](https://pandas.pydata.org/docs/)
 
 
-
 ## Referências
 
 - [Digital Innovation One]().
-# DIO | Pipeline de ETL com Python
 
-Repositorio do Santander Bootcamp 2023 - Ciência de Dados com Python
-[Digital Innovation One](https://www.dio.me/).
-
-## Principais Tecnologias
-
-
-
--[Documentação Flask](https://flask-ptbr.readthedocs.io/en/latest/)
-
--[Documentação Requests](https://requests.readthedocs.io/en/latest/)
-
--[Documentação Pandas](https://pandas.pydata.org/docs/)
-
-
-
-
-
-## Referências
-
-- [Digital Innovation One]().
-# DIO | Pipeline de ETL com Python
-
-Repositorio do Santander Bootcamp 2023 - Ciência de Dados com Python
-[Digital Innovation One](https://www.dio.me/).
-
-## Principais Tecnologias
-
-
--[Documentação Flask](https://flask-ptbr.readthedocs.io/en/latest/)
-
--[Documentação Requests](https://requests.readthedocs.io/en/latest/)
-
--[Documentação Pandas](https://pandas.pydata.org/docs/)
-
-
-
-## Referências
-
-- [Digital Innovation One]().
 ## Instalação
 
 
